@@ -1,0 +1,22 @@
+{
+  "name": "Blog",
+  "version": "1.0.0",
+  "description": "Testing project where I fiddled around with MongoDB, NodeJS (restify) and AngularJS to learn how to work with them",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.9.6",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "init"
+  },
+  "repository": { 
+      "type" : "git",
+      "url" : "https://github.com/Ribeiro-Tiago/blog.git"
+    },
+  "author": "Tiago Ribeiro - http://www.tiago-ribeiro.com/",
+  "license": "ISC"
+}
